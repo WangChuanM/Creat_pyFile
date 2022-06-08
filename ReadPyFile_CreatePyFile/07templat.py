@@ -1,7 +1,7 @@
 from __future__ import division#精确除法
 import numpy as np
 import geatpy as ea
-1
+
 
 #排水量最小优化
 class MyProblem(ea.Problem): # 继承Problem父类
